@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Hide Flat Rate Woocommerce Addon
+Plugin Name: hide flat rate woocommerce addon
 Description: Plugin qui permet de masquer toutes les autres méthodes et d'afficher uniquement la livraison gratuite
 Author: Rosa Ribeiro
 Version: 1.0
